@@ -2,7 +2,7 @@
 
 A simple, elegant and efficient Todo List web application built with vanilla JavaScript and HTML/CSS.
 
-![Todo App](https://raw.githubusercontent.com/HitkarMiglani/TodoApp/refs/heads/master/photo.png)
+![Todo App](https://raw.githubusercontent.com/HitkarMiglani/TodoApp/refs/heads/master/image.png)
 
 ## Features
 
